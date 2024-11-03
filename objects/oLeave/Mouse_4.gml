@@ -1,0 +1,2 @@
+pressed = true;
+playSound("Click");
