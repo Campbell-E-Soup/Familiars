@@ -86,7 +86,7 @@ function init() {
 		"Doubles base defense, attacks last.",
 		"Half ATK, ATK ignores enemy DEF",
 		"Freezes an enemy, preventing them from moving.",
-		"Chance to enter a bonus room after combat.",
+		"Enter a bonus room after combat.",
 		"+3 to ATK, +3 to DEF, +3 to HP"
 	]
 	var NameDesc = [
