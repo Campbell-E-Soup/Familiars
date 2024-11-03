@@ -6,11 +6,11 @@
   <img src="https://github.com/user-attachments/assets/e7920de1-df81-4468-9a72-8b287027a187" alt="A screenshot of combat." >
   <h2>Assets Used:</h1>
   <div align="center">
-    <a href="https://sethbb.itch.io/32rogues">32Rogues</a> by <a href="https://sethbb.itch.io/">Seth</a><br />
-    <a href="https://www.jujuadams.com/Scribble/#/latest/">Scribble</a> by <a href="https://github.com/jujuadams">Juju Adams</a><br />
-    <a href="https://datagoblin.itch.io/monogram">Monogram</a> by <a href="https://datagoblin.itch.io/">Datagoblin</a><br />
-    <a href="https://leohpaz.itch.io/minifantasy-dungeon-sfx-pack">Minifantasy Audio Pack</a> by <a href="https://leohpaz.itch.io/">Leohpaz</a><br />
-    <a href="https://jdsherbert.itch.io/ultimate-ui-sfx-pack">Ultimate UI SFX Pack</a> by <a href="https://jdsherbert.itch.io/">JDSherbert</a><br />
+    <a href="https://sethbb.itch.io/32rogues" target="_blank">32Rogues</a> by <a href="https://sethbb.itch.io/" target="_blank">Seth</a><br />
+    <a href="https://www.jujuadams.com/Scribble/#/latest/" target="_blank">Scribble</a> by <a href="https://github.com/jujuadams" target="_blank">Juju Adams</a><br />
+    <a href="https://datagoblin.itch.io/monogram" target="_blank">Monogram</a> by <a href="https://datagoblin.itch.io/" target="_blank">Datagoblin</a><br />
+    <a href="https://leohpaz.itch.io/minifantasy-dungeon-sfx-pack" target="_blank">Minifantasy Audio Pack</a> by <a href="https://leohpaz.itch.io/" target="_blank">Leohpaz</a><br />
+    <a href="https://jdsherbert.itch.io/ultimate-ui-sfx-pack" target="_blank">Ultimate UI SFX Pack</a> by <a href="https://jdsherbert.itch.io/" target="_blank">JDSherbert</a><br />
   </div>
   <h2>How to Play:</h2>
   <div align="center">
